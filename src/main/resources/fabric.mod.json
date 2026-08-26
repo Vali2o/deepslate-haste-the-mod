@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "deepslate-haste",
+	"version": "${version}",
+	"name": "Deepslate Haste",
+	"description": "With this Datapack you can instantly mine Deepslate with a Netherite pickaxe.",
+	"authors": [
+		"Vali_2o / ValiDev"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/datapack/deepslate-haste",
+		"sources": "https://github.com/Vali2o/deepslate-haste-the-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/deepslate-haste/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"validev.deepslatehaste.DeepslateHaste"
+		],
+	    "client": [
+			"validev.deepslatehaste.DeepslateHasteClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
