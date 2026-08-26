@@ -1,9 +1,23 @@
-# Deepslate Haste
+# ⛏️ Deepslate Haste 2.0
 
-## Setup
+Deepslate Haste is a Fabric mod that allows players to instantly mine Deepslate with a Netherite Pickaxe.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## 🎨 Features
 
-## License
+- Toggle Deepslate Haste with `V`
+- Configuration screen with `B`
+- ON/OFF Action Bar notification
+- Client/server support
+- Persistent configuration
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## 🧭 Version
+
+- Current version: **2.0**
+- Minecraft Version: **26.2**
+- You can download the Mod here: [Deepslate Haste Mod](https://modrinth.com/datapack/deepslate-haste)
+
+## 😵‍💫 Original Datapack
+
+Deepslate Haste originally started as a Minecraft datapack that will still be supported.
+
+The original datapack is available here: [Deepslate Haste Datapack](https://modrinth.com/datapack/deepslate-haste)
