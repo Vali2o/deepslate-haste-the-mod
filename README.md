@@ -6,6 +6,7 @@ Deepslate Haste is a Fabric mod that allows players to instantly mine Deepslate 
 
 - Toggle Deepslate Haste with `V`
 - Configuration screen with `B`
+- You can change the binds
 - ON/OFF Action Bar notification
 - Client/server support
 - Persistent configuration
