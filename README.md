@@ -21,5 +21,5 @@ Deepslate Haste is a Fabric mod that allows players to instantly mine Deepslate 
 
 Deepslate Haste originally started as a Minecraft datapack that will still be supported.
 
-The original datapack is available here: [Deepslate Haste Datapack](https://modrinth.com/datapack/deepslate-haste)
-Also the original datapack source code is available here: [Deepslate Haste Datapack Source](https://github.com/Vali2o/deepslate-haste)
+- The original datapack is available here: [Deepslate Haste Datapack](https://modrinth.com/datapack/deepslate-haste)
+- Also the original datapack source code is available here: [Deepslate Haste Datapack Source](https://github.com/Vali2o/deepslate-haste)
