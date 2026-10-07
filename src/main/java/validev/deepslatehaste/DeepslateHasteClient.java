@@ -43,7 +43,7 @@ public class DeepslateHasteClient implements ClientModInitializer {
         TOGGLE_KEY = KeyMappingHelper.registerKeyMapping(
                 new KeyMapping(
                         "key.deepslate-haste.toggle",
-                        InputConstants.Type.KEYSYM,
+                        InputConstants.Type.KEYBOARD,
                         InputConstants.KEY_V,
                         CATEGORY
                 )
@@ -53,7 +53,7 @@ public class DeepslateHasteClient implements ClientModInitializer {
         OPEN_MENU_KEY = KeyMappingHelper.registerKeyMapping(
                 new KeyMapping(
                         "key.deepslate-haste.open_menu",
-                        InputConstants.Type.KEYSYM,
+                        InputConstants.Type.KEYBOARD,
                         InputConstants.KEY_B,
                         CATEGORY
                 )
