@@ -13,8 +13,9 @@ Deepslate Haste is a Fabric mod that allows players to instantly mine Deepslate 
 
 ## 🧭 Version
 
-- Current version: **2.0**
-- Minecraft Version: **26.2**
+- Current version: **2.0.1**
+- Minecraft Version: **26.3**
+- Loader: **Fabric**
 - You can download the Mod here: [Deepslate Haste Mod](https://modrinth.com/datapack/deepslate-haste)
 
 ## 😵‍💫 Original Datapack
