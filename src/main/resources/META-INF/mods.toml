@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/Vali2o/deepslate-haste-the-mod/issues"
+
+[[mods]]
+modId="deepslate_haste"
+version="2.0.1"
+displayName="Deepslate Haste"
+authors="Vali_2o / ValiDev"
+description='''Grants Haste VIII while standing on deepslate.'''
+
+[[dependencies.deepslate_haste]]
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.deepslate_haste]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,26.4)"
+    ordering="NONE"
+    side="BOTH"
